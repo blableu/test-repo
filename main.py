@@ -7,6 +7,7 @@ def main() -> None:
     print("Finished")
     print("Error fixed")
     print("stupid branch")
+    print("github")
 
 
 
