@@ -5,6 +5,7 @@ def main() -> None:
         print(rd(0, 100))
 
     print("Finished")
+    print("Error fixed")
 
 
 
