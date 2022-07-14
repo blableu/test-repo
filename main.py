@@ -4,10 +4,11 @@ def main() -> None:
     for _ in range(100):
         print(rd(0, 100))
 
-    print("Finished")
+    print("Finish")
     print("Error fixed")
     print("stupid branch")
     print("githubNone")
+    print()
 
 
 
